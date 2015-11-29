@@ -17,5 +17,5 @@ If you wish to custimise the settings, mount your config at `/elasticmq/custom.c
 
 ## Credits
 
-Adapted from the (Expert360 repository)[https://github.com/expert360/docker-elasticmq].
+Adapted from the [Expert360 repository](https://github.com/expert360/docker-elasticmq).
 
